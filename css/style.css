@@ -1,0 +1,53 @@
+h1 {
+    border: 1px solid black;
+    display: inline-block;
+}
+.t1 {
+    margin-right: 30px;
+}
+.t2 {
+    margin: 50px;
+}
+.t3 {
+    padding: 50px;
+}
+.t4 {
+    padding: 20px 60px;
+}
+.t5{
+    padding: 10px 20px 5px 1px;
+}
+.t6 {
+    margin-left: -20px;
+}
+.t7 {
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.logo {
+    width: 100px;
+}
+header {
+    text-align: center;
+ 
+}
+nav li {
+    display: inline;
+    margin-right: 20px;
+    padding: 60px;
+}
+nav a {
+    text-decoration: none;
+    color: black; 
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.img1 {
+    width: 150px;
+
+}
+.welcome {
+    
+}
