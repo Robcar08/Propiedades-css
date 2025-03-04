@@ -31,7 +31,7 @@ nav a:hover {
 }
 .welcome {
     padding: 20px;
-    background-color: darkblue;
+    background-color: rgb(139, 0, 0);
     text-align: center;
     color: white;
 }
@@ -47,7 +47,7 @@ p {
     line-height: 1.4;
 }
 .welcome h1, .course h2 {
-    color: #005A9C;
+    color: #ffffff;
 }
 .infocurso img {
     width: 225px;
@@ -83,26 +83,3 @@ image {
 
 
 
-
-.t1 {
-    margin-right: 30px;
-}
-.t2 {
-    margin: 50px;
-}
-.t3 {
-    padding: 50px;
-}
-.t4 {
-    padding: 20px 60px;
-}
-.t5{
-    padding: 10px 20px 5px 1px;
-}
-.t6 {
-    margin-left: -20px;
-}
-.t7 {
-    margin-left: 20px;
-    border-radius: 20px;
-    padding: 10px;}
